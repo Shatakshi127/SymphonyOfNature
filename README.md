@@ -1,9 +1,10 @@
 # Personal Portfolio Website in React
 
-This project was bootstrapped with [Create React App]![image](https://github.com/Shatakshi127/SymphonyOfNature/assets/107629085/6ccd6bc9-2cad-4833-aaac-7554dfe67677)
+This project was bootstrapped with [Create React App].
 
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://user-images.githubusercontent.com/50160672/174933373-1ba6cadf-1c9a-48c3-aa58-984d0bd62d82.png">
+![image](https://github.com/Shatakshi127/SymphonyOfNature/assets/107629085/3790b0e2-b8d5-4a0c-a151-77971244cd76)
+
 
 Built using:
 
