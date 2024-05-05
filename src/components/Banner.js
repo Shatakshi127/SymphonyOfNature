@@ -69,7 +69,7 @@ export const Banner = () => {
                 <div className={isVisible ? "animate__animated animate__zoomIn" : ""}>
 
 
-<video src={require('../assets/okok.mp4')} width="600" height="400" controls>
+<video src={require('../assets/okok.mp4')} width="450" height="350" controls>
   Your browser does not support the video tag.
 </video>
 
