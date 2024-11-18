@@ -1,4 +1,4 @@
-# Personal Portfolio Website in React
+# Computer Graphics Animation Website in React
 
 This project was bootstrapped with [Create React App].
 
